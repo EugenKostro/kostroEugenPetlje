@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\kostroEugenNoviProjekt\kostroEugenNoviProjekt\bin\Debug\kostroEugenNoviProjekt.exe.config
+C:\Users\3.D\source\repos\kostroEugenNoviProjekt\kostroEugenNoviProjekt\bin\Debug\kostroEugenNoviProjekt.exe
+C:\Users\3.D\source\repos\kostroEugenNoviProjekt\kostroEugenNoviProjekt\bin\Debug\kostroEugenNoviProjekt.pdb
+C:\Users\3.D\source\repos\kostroEugenNoviProjekt\kostroEugenNoviProjekt\obj\Debug\kostroEugenNoviProjekt.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\kostroEugenNoviProjekt\kostroEugenNoviProjekt\obj\Debug\kostroEugenNoviProjekt.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenNoviProjekt\kostroEugenNoviProjekt\obj\Debug\kostroEugenNoviProjekt.exe
+C:\Users\3.D\source\repos\kostroEugenNoviProjekt\kostroEugenNoviProjekt\obj\Debug\kostroEugenNoviProjekt.pdb
